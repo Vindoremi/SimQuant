@@ -1,0 +1,13 @@
+# 虛擬環境資料夾
+venv/
+
+# Python 自動產生的緩存檔案
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoint（如果未來用到）
+.ipynb_checkpoints/
+
+# VS Code 設定檔（非必要）
+.vscode/
