@@ -100,4 +100,3 @@ This project is open source and available under the MIT License.
 ## Disclaimer
 
 This is for educational purposes only. Past performance does not guarantee future results. Always do your own research before making investment decisions.
-# SimQuant
