@@ -2,6 +2,7 @@
 
 This is a simple quantitative backtesting project using Python.
 It implements a basic SMA (Simple Moving Average) crossover strategy and compares it against the Buy & Hold benchmark.
+[Click here to try the live app!](https://simquant.streamlit.app)
 
 ## Features
 
